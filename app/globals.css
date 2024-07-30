@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+	font: 16px/30px "merriweather-regular", serif;
+	font-weight: normal;
+	color: #575859;
+}
